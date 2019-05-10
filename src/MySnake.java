@@ -25,6 +25,7 @@ public class MySnake {
         DoubleSelectionSort dss = new DoubleSelectionSort();
         dss.doubleselectionsort(arrD);
         ss.arrPrint(arrD);
+        System.out.println("hello world");
     }
 
 }
